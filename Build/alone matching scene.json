@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "RollBall2",
+"productVersion": "1.0",
+"dataUrl": "alone matching scene.data.unityweb",
+"wasmCodeUrl": "alone matching scene.wasm.code.unityweb",
+"wasmFrameworkUrl": "alone matching scene.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
